@@ -1,0 +1,14 @@
+# installing conda naviagtor
+# create virtual Environment
+--> conda create -n yolo_envLLM python=3.9
+--> conda activate yolo_envLLM
+
+# installing necessary packages
+--> pip install -r requirements.txt
+pip install langchain-openai
+pip install sentence-transformers
+
+
+
+# run main application
+ --> streamlit run main.py
