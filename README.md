@@ -7,7 +7,7 @@
 ## **Overview**
 This project is a **Retrieval-Augmented Generation (RAG) System** designed to enable interactive conversations with PDF files. Upload PDF documents, process their text, and ask questions to get precise and context-aware answers using the **DeepSeek-R1 LLM** powered by **Groq Mixtral-8x7b**. The app combines the power of **LangChain**, **FAISS**, and **Hugging Face embeddings** to deliver fast and accurate responses.
 
-- **Live Link:** [Hugging Face Space]()
+- **Live Link:** [Hugging Face Space](https://huggingface.co/spaces/subramanyamrekhandar/Chat_Pdf_file_using_Deepseek_Llm)
 ---
 
 ## **Key Features**
